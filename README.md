@@ -1,8 +1,6 @@
 # Fast Js
 Fast js is library to make typing long boring js lines easier with only one line of code 
-## Getting Started
 
-This plugin have some tools that make typing js more fun and easy to developers
 
 ## How its work
 - Redirect method
