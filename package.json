@@ -1,0 +1,23 @@
+{
+    "name": "fastjs.shortcuts",
+    "version": "0.0.1-a",
+    "description": "Simple plugin that help you to type js faster",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/issamlk1/fastjs"
+    },
+    "keywords": [
+      "fastjs",
+      "redirect",
+      "inarray",
+      "console.log",
+      "javascript",
+      "js"
+    ],
+    "author": "ISSAM ABBAS",
+    "contributors": [
+      "ISSAM ABBAS <admin@mlk1.com> (http://mlk1.com)"
+    ],
+    "license": "MIT"
+  }

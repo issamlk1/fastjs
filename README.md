@@ -48,13 +48,13 @@ You can just install it from npm
 npm command 
 
 ```
-npm i --save fastjs
+npm i --save fastjs.shortcuts
 ```
 
 then 
 
 ```
-require('fastjs');
+require('fastjs.shortcuts');
 ```
 
 
