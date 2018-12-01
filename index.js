@@ -15,7 +15,7 @@
     ce=function(data){
       console.error(data);
     };
-    InArray=function(arr,data){
+    inArray=function(arr,data){
        return arr.indexOf(data) > -1
     };
   }());
