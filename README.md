@@ -1,6 +1,8 @@
 # Fast Js
 Fast js is library to make typing long boring js lines easier with only one line of code 
 
+## requirements
+jquery
 
 ## How its work
 - Redirect method
@@ -51,11 +53,18 @@ npm i --save fastjs.shortcuts
 
 then 
 
+if you use webpack 
+
 ```
 require('fastjs.shortcuts');
 ```
+if you use plain js 
 
+```
+<script src="path/to/fastjs.shortcuts/index.js"></script>
+```
 
+in both cases dont forget to install jquery to the project
 
 ## Authors
 
