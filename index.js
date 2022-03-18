@@ -5,23 +5,17 @@
  * MIT Licensed
  */
 
-(function(){
-    redirect=function(url){
-      window.location = url;
-    };
-    cl=function(data){
-        console.log(data);
-    };
-    ce=function(data){
-      console.error(data);
-    };
-    inArray=function(arr,data){
-       return arr.indexOf(data) > -1
-    };
-  }());
-  
-
-
-
-  
-  
+(function () {
+  var redirect = function (url) {
+    window.location = url;
+  };
+  var cl = function (data) {
+    console.log(data);
+  };
+  var ce = function (data) {
+    console.error(data);
+  };
+  var inArray = function (arr, data) {
+    return arr.indexOf(data) > -1;
+  };
+})();
