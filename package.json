@@ -1,6 +1,6 @@
 {
     "name": "fastjs.shortcuts",
-    "version": "0.0.1-d",
+    "version": "0.0.2",
     "description": "Simple plugin that help you to type js faster",
     "main": "index.js",
     "repository": {
